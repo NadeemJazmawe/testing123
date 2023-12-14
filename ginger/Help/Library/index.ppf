@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="Learn" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="First_Topic.htm">
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Getting_Started\What_is_Ginger.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Getting_Started\Ginger_Workflow.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Getting_Started\What_is_Ginger_Runtime.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Getting_Started\Ginger_Components_in_High_Level_0.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Getting_Started\Ginger_End_to_End_Flow-_Do_it_Yourself.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\UI\Ginger_Business_Flows_Tab_Overview.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\UI\Ginger_Run_Tab_Overview.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\UI\Ginger_Configurations_Tab_Overview.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\UI\Ginger_Resources_Tab_Overview.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\UI\Ginger_Support_Overview.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\UI\Main_Ginger_Menu.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Target_Applications.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Agents\What_is_an_Agent.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Agents\02-_Agent_Configuration.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Agents\Agents_Type_Overview\Web_Agent\Ginger_Device_Emulation_User_Guide.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Agents\Agents_Type_Overview\Web_Agent\Ginger_Remote_Web_Driver.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Agents\Agents_Type_Overview\Web_Agent\Internet_Explorer_Pre-Settings_for_IE_Application.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Agents\Agents_Type_Overview\Web_Agent\Run_Agent_in_Minimized_mode_1.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Agents\Agents_Type_Overview\Web_Agent\Web_Agent.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Agents\Agents_Type_Overview\Mainframe_Agent.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Agents\Agents_Type_Overview\Java_Agent.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Agents\Agents_Type_Overview\Unix_Agent.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Agents\Agents_Type_Overview\Mobile_Appium_Agent.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Agents\Agents_Type_Overview\Web_Services_Agent.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Agents\Agents_Type_Overview\Windows_Agent.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Environments\What_is_Environment.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Value_Expression\Value_Expression_Types_Overview.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Value_Expression\How_to_Add_Value_Expression.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Reports\Ginger_Execution_Logger.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Reports\HTML_Drill_Down_Report.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Reports\How_to_Generate_HTML_Report.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\GingerSelfHealingConfiguaration.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\Ginger_-_Encryption_Key_.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Configurations\ErrorHandler.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\01-_What_is_a_Business_Flow.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\02-_What_is_Activities_Groups.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\03-_What_is_an_Activity.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\04-_What_is_an_Error_Handler_Activity.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\What_is_Clean_Up_Activity.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Create_New_or_Open_Solution_1.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\What_is_Action.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Action_Generic_Configurations\Action_Flow_Control.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Action_Generic_Configurations\Action_Output_Simulation.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Action_Generic_Configurations\Action_Output_Values.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Action_Generic_Configurations\Action_Retry_Mechanism.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Platform_Action_Types\Browser_Action.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Platform_Action_Types\Goto_URL_Action.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Platform_Action_Types\Java_Element_Action_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Platform_Action_Types\Java_Execution_Action_User_Guide_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Platform_Action_Types\Screenshot_Action_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Platform_Action_Types\Set_Text_MainFrame_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Platform_Action_Types\Send_Key_to_MainFrame_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Platform_Action_Types\Smart_Sync_Action_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Platform_Action_Types\Switch_Window_Action_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Platform_Action_Types\Table_Element_Action_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Platform_Action_Types\UIElement_4.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Platform_Action_Types\Web_API_Action_-SoapUI-Rest.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\REST_Action.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Platform_Action_Types\Window_Action.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\Platform_Action_Types\Get_Details_from_MainFrame_Action_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Excel_Action.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Database_Action.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Working_with_Cosmos_DB_using_Ginger.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Condition_Validation_Action.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Script_Action_2.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\XML_Processing_Action.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\XML_Tag_Validation_Action_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Set_Variable_Action_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Clear_All_the_Variables_Action.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Sikuli_Action.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Read_Text_Using_OCR.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Send_Keys_Action_4.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Launch_Java_Application_Action.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Java_Execution_Action_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Email_Action.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\File_Operations_Action.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Text_File_Operations_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\File_Transfer_Action.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Generate_File_from_Template_Action_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\General_Action_Types\Image_Search_and_Click_on_screen_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Actions\05-_Automatic_Actions_Convertor.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Variables\What_is_Variable.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Variables\What_is_Variable_Dependency.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Variables\Variable_Type_Overview.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Automate\How_to_Automate_Power_Builder_Widgets.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Automate\How_to_Automate_Mobile_Application.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Automate\How_to_Automate_Unix_application_in_Ginger.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Automate\How_to_use_Automate_Mainframe_3270_in_Ginger.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Automate\How_to_use_Java_Driver_and_Widgets_in_Ginger.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Automate\Windows_Explorer_User_Guide.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Business_Flows\Operators\Evaluate_Operators.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Resources\Data_Source.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Resources\Documents_1.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Resources\Shared_Repository_10.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Resources\Application_Models\Page_Objects_Model_User_Guide_for_Java_and_Web.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Resources\Application_Models\Application_Models-_API_Models.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Resources\Application_Models\Global_Parameters.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Functionalities_and_Tools\AutoSave_and_Recover_User_Guide.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Functionalities_and_Tools\Ginger_Analyzer_4.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Functionalities_and_Tools\Ginger_Find_And_Replace_User_Guide.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Functionalities_and_Tools\Windows_Automation_Run_Book_1.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Functionalities_and_Tools\Global_Cross_Solution.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Run_Sets\How_to_Create_a_Run_Set.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Run_Sets\How_to_Execute_a_Run_set.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Run_Sets\How_to_Execute_Run_set_Via_CLI.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Run_Sets\Runset_Extra_Functionalities.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Run_Sets\Runset_Report.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Integrations\ALM_Integrations\Ginger_Octane_ALM_Integration.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Integrations\ALM_Integrations\Ginger_Jira_ALM_Integration.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Integrations\ALM_Integrations\Ginger_Zephyr_ALM_Integration.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Integrations\ALM_Integrations\Ginger_QC_ALM_Integration.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Integrations\ALM_Integrations\Ginger_qTest_ALM_Integration.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Integrations\Ginger-UFT_Mobile_Integration_Guide.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Integrations\Ginger-Sealights_Integration.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Integrations\Visual_Testing_using_VRT.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Integrations\Visual_Testing_using_Applitools.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Integrations\Ginger_Plugin_for_Bamboo_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Integrations\Ginger_Plugin_for_Jenkins_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Integrations\Ginger_Splunk_Integration_3.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Integrations\Ginger_-_Amdocs_BEAT_Testing_Studio_(ABTS)_Integration.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Plugin\01-_What_is_Ginger_Plugins.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Plugin\Ginger_PluginTypes\Groovy_Plugin_User_Guide.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Plugin\Ginger_PluginTypes\PACT_Ginger_Plugin.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Plugin\Ginger_PluginTypes\Python_Plugin_User_Guide.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Plugin\Ginger_PluginTypes\Ruby_Plugin_User_Guide.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Plugin\Ginger_PluginTypes\TestNG_Plugin_User_Guide.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Extensions\How_to_Use_BDD_(Gherkin)_with_Ginger.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Source_Control\How_to_use_Repository_in_Ginger.htm
+    </topic>
+    
+    <topic>
+      assets\Ginger_By_Amdocs\Ginger_User_Settings\Ginger_User_Settings.htm
+    </topic>
+    
+    <topic>
+      First_Topic.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        en_US
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.html
+      </filename>
+    </filenameentry>
+        
+    <filenameentry moniker="favicon">
+      <filename>
+        C:/My Drive/Ginger Help Library/Ginger-Web-Help.git/Ginger by Amdocs Help/contents/assets/images/amdocs_Icon.png
+      </filename>
+    </filenameentry>
+    
+  </filenamemap>
+</ppfml>

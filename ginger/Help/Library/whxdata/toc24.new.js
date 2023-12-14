@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"What is Ginger Plugin","type":"item","tilePath":"","description":"","url":"assets/Ginger_By_Amdocs/Plugin/01-_What_is_Ginger_Plugins.htm"},{"name":"Ginger Plugin Types","type":"book","tilePath":"","key":"toc25"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"Evaluate Operators","type":"item","tilePath":"","description":"","url":"assets/Ginger_By_Amdocs/Business_Flows/Operators/Evaluate_Operators.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
