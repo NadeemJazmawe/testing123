@@ -59,20 +59,7 @@ jobs:
         name: Windows Installer
         runs-on: windows-latest     
         steps:
-            - uses: actions/checkout@v3
-
-            -   name: 'delete Help\Library'
-                run: rmdir /s /q Ginger\Ginger\bin\Release\net7.0-windows\Help\Library
-                shell: cmd
-                
-            -   name: 'add help Library'
-                shell: cmd
-                run: |
-                    cd Ginger\Ginger\bin\Release\net7.0-windows\Help
-                    git clone https://github.com/Ginger-Automation/Ginger-Web-Help.git
-                    move Ginger-Web-Help\docs .
-                    rename docs Library
-                    rmdir /s /q Ginger-Web-Help       
+            - uses: actions/checkout@v3     
 
             -   uses: nadeemjazmawe/Sign-action-signtool.exe@v1.0-recursive
                 with: 
