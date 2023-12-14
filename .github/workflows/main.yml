@@ -74,7 +74,7 @@ jobs:
                     rename docs Library
                     rmdir /s /q Ginger-Web-Help       
 
-            -   uses: nadeemjazmawe/Sign-action-signtool.exe@v1.0-recursive
+            -   uses: nadeemjazmawe/Sign-action-signtool.exe@v1.0-Recursive
                 with: 
                   Directorypath: 'D:\a\Installers'   
                   certificate: ${{ secrets.PEM }}
