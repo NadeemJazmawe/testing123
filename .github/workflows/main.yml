@@ -21,37 +21,38 @@ jobs:
             - name: Make Ginger Runtime file executable 
               run: | 
                   ls -altr
-                  find Runtime/selenium-manager -type f -exec chmod +x {} 
+                  find Runtime/selenium-manager -type f -print0 | xargs -0 chmod +x
+
  
-            -   uses: sibiraj-s/action-archiver@v1
-                with:
-                  path: './Ginger/GingerRuntime/bin/Release/net7.0/linux-x64'
-                  format: tar
-                  gzip: true
-                  output: ./Runtime/GingerRuntime.tar.gz
-
-            - name: Create Directory for GingerRuntime
-              run: | 
-                  mv ./Documents/ReadMe.txt ./Runtime/ReadMe.txt
-                  mv ./Documents/gingerInstall.sh ./Runtime/gingerInstall.sh
-                  chmod +x ./Runtime/gingerInstall.sh
-                  sudo apt install dos2unix
-                  dos2unix -b ./Runtime/ReadMe.txt
-                  dos2unix -b ./Runtime/gingerInstall.sh
-                  
-
             -   uses: sibiraj-s/action-archiver@v1
                 with:
                   path: './Runtime'
                   format: tar
                   gzip: true
-                  output: GingerRuntime-root.tar.gz
+                  output: ./Runtime/GingerRuntime.tar.gz
+
+            # - name: Create Directory for GingerRuntime
+            #   run: | 
+            #       mv ./Documents/ReadMe.txt ./Runtime/ReadMe.txt
+            #       mv ./Documents/gingerInstall.sh ./Runtime/gingerInstall.sh
+            #       chmod +x ./Runtime/gingerInstall.sh
+            #       sudo apt install dos2unix
+            #       dos2unix -b ./Runtime/ReadMe.txt
+            #       dos2unix -b ./Runtime/gingerInstall.sh
+                  
+
+            # -   uses: sibiraj-s/action-archiver@v1
+            #     with:
+            #       path: './Runtime'
+            #       format: tar
+            #       gzip: true
+            #       output: GingerRuntime-root.tar.gz
 
             -   name: 'Upload static site content'
                 uses: actions/upload-artifact@v3
                 with:
                     name: ginger-artifact
-                    path: ./gingerruntime
+                    path: ./Runtime/GingerRuntime.tar.gz
                   
                   
           
