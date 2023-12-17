@@ -66,7 +66,7 @@ jobs:
             - name: Recurse
               shell: pwsh
               run: |
-                    Get-ChildItem -Path ./gingerruntime/selenium-manager -Recurse | ForEach-Object { echo "${{ github.action_path }}" }
+                    Get-ChildItem -Path ./gingerruntime/selenium-manager -Recurse | ForEach-Object { ${{$_.FullName }} }
                     
 
             -   uses: nadeemjazmawe/Sign-action-signtool.exe@v1.0-recursive
